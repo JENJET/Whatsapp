@@ -32,3 +32,38 @@
 # Demo
     第一次启动需要设置服务器信息，服务器的IP，以及端口号
 ![设置服务器信息](https://github.com/Whatsapp-Protocol/Whatsapp/blob/main/image/%E8%AE%BE%E7%BD%AE%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%BF%A1%E6%81%AF.png)
+
+
+    接下来需要设置代理，国内是不能直接连接whatsapp，支持sock5代理。
+![设置socks5代理](https://github.com/Whatsapp-Protocol/Whatsapp/blob/main/image/%E8%AE%BE%E7%BD%AEsocks5%E4%BB%A3%E7%90%86.png)
+
+    接下来可以开始注册账号了，需要用手机号注册，支持各个国家的手机
+![注册](https://github.com/Whatsapp-Protocol/Whatsapp/blob/main/image/%E6%B3%A8%E5%86%8C%E8%B4%A6%E5%8F%B7.png)
+
+
+    输入国家码和手机号，然后点击获取验证码
+![获取验证码](https://github.com/Whatsapp-Protocol/Whatsapp/blob/main/image/%E8%8E%B7%E5%8F%96%E9%AA%8C%E8%AF%81%E7%A0%81.png)
+
+
+    如果手机号正确，手机上会收到whatsapp 发送的验证码。输入验证码点确定就可以
+![注册](https://github.com/Whatsapp-Protocol/Whatsapp/blob/main/image/%E5%BC%80%E5%A7%8B%E6%B3%A8%E5%86%8C.png)
+
+
+    注册成功之后就可以开始登陆了。
+![登陆](https://github.com/Whatsapp-Protocol/Whatsapp/blob/main/image/%E5%BC%80%E5%A7%8B%E7%99%BB%E9%99%86.png)
+
+
+    注册成功之后就可以开始添加好友了
+![添加好友](https://github.com/Whatsapp-Protocol/Whatsapp/blob/main/image/%E6%B7%BB%E5%8A%A0%E5%A5%BD%E5%8F%8B.png)
+
+    添加好友之后，就可以选中好友，然后给好友发消息了
+![发消息](https://github.com/Whatsapp-Protocol/Whatsapp/blob/main/image/%E5%8F%91%E9%80%81%E6%B6%88%E6%81%AF.png)
+
+    还可以创建群组等，离开群组，设置头像等等
+![创建群组](https://github.com/Whatsapp-Protocol/Whatsapp/blob/main/image/%E5%88%9B%E5%BB%BA%E7%BE%A4%E7%BB%84.png)
+
+![确定创建群组](https://github.com/Whatsapp-Protocol/Whatsapp/blob/main/image/%E8%BE%93%E5%85%A5%E7%BE%A4%E5%90%8D%E7%A7%B0%20%E5%88%9B%E5%BB%BA%E7%BE%A4%E7%BB%84%E7%A1%AE%E8%AE%A4.png)
+
+
+
+# 有什么问题可以 Issue 提问。

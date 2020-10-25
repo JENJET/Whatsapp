@@ -141,8 +141,8 @@ void RegisterDialog::HandleInitStatus(){
 	document.setObject(command);
 	QByteArray byteArray = document.toJson(QJsonDocument::Compact);
 	register_websocket_.sendTextMessage(QString(byteArray));
-	register_status_ = kStatusExist;
 	ui->tips->setText(QString::fromStdWString(L"获取账号是否存在..."));
+	register_status_ = kStatusExist;
 }
 
 void RegisterDialog::HandleExistStatus(const QString& message){
