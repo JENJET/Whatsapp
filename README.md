@@ -28,3 +28,6 @@
     whatsapp 使用的xmpp 协议并不是标准的，对xmpp 协议做了一些扩展。xmpp 协议使用xml 作为载体
 
     
+# Demo
+    第一次启动需要设置服务器信息，服务器的IP，以及端口号
+[设置服务器信息](https://github.com/Whatsapp-Protocol/Whatsapp/blob/main/image/%E8%AE%BE%E7%BD%AE%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%BF%A1%E6%81%AF.png)
