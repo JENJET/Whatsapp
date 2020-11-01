@@ -30,7 +30,7 @@
 
     
 # Demo
-    第一次启动需要设置服务器信息，服务器的IP，以及端口号
+    第一次启动需要设置服务器信息，服务器的IP，以及端口号 (服务器部署好之后会更新)
 ![设置服务器信息](https://github.com/Whatsapp-Protocol/Whatsapp/blob/main/image/%E8%AE%BE%E7%BD%AE%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%BF%A1%E6%81%AF.png)
 
 
@@ -67,3 +67,14 @@
 
 
 # 有什么问题可以 Issue 提问。
+# 微信 MMTLS 协议 实现
+## 开源微信的MMTLS 协议实现。包含js 实现以及 demo
+
+mmtls 文件夹，直接使用vs code 打开文件夹，执行npm 命令就可以运行
+
+    1)  安装依赖环境
+          npm install
+    2)  运行
+         node index.js
+
+

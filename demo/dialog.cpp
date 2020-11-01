@@ -97,7 +97,7 @@ void Dialog::onMessageReceived(const QString& message){
 	result = QByteArray::fromBase64(result.toUtf8());
 	if (type == "login")
 	{
-		HandleLoginResponse(result, root);
+		HandleLoginResponse(message, root);
 		return;
 	}
 	else if (type == "sync")
